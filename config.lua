@@ -1,6 +1,6 @@
 return {
-	bot_api_key = '',
-	admin = 284244758,
+	bot_api_key = '298866258:AAG1npHJg7isi3ulXFp4nEkMgNFToRPMAa8',
+	admin = 172561830,90516804
 	plugins = {
 		'admin.lua',
 		'starting.lua',
